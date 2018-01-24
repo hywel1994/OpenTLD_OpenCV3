@@ -87,4 +87,6 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
-datasets/
+# datasets/ #
+.idea/
+cmake-build-debug/
